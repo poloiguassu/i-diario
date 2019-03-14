@@ -1,6 +1,6 @@
 pt-BR:
   enumerations:
     trimesters:
-      first_trimester: "1º Trimestre"
-      second_trimester: "2º Trimestre"
-      third_trimester: "3º Trimestre"
+      first_trimester: "1º Eixo"
+      second_trimester: "2º Eixo"
+      third_trimester: "3º Eixo"
