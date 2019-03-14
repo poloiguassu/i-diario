@@ -46,7 +46,7 @@ pt-BR:
     school_frequency_menu: "Frequência na escola"
     avaliation_exemptions: "Dispensa de avaliações"
     transfer_notes: "Notas de transferência"
-    teacher_report_cards: "Boletim do professor"
+    teacher_report_cards: "Boletim do educador"
     partial_score_record_report: "Registro de notas parciais"
     terms_dictionaries: "Dicionário de termos"
     data_exportations: "Exportação de dados"
@@ -60,7 +60,7 @@ pt-BR:
     features:
       <<: *navigation
       test_settings: "Configurações de avaliações"
-      teacher_report_card: "Boletim do professor"
+      teacher_report_card: "Boletim do educador"
       ieducar_api_exam_posting_without_restrictions: "Lançamentos sem restrições de datas"
       can_change_user_password: "Permite redefinir senha dos usuários"
       change_school_year: "Acesso à anos letivos anteriores"

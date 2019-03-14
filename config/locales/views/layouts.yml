@@ -10,7 +10,7 @@ pt-BR:
       unknown_error: 'Erro desconhecido'
       fetch_teachers_error: 'Ocorreu um erro ao buscar os professores da unidade selecionada'
       fetch_years_error: 'Ocorreu um erro ao buscar os anos letivos da unidade selecionada'
-      fetch_classrooms_error: 'Ocorreu um erro ao buscar as turmas do professor selecionado'
+      fetch_classrooms_error: 'Ocorreu um erro ao buscar as turmas do educador selecionado'
       fetch_discipines_error: 'Ocorreu um erro ao buscar as disciplinas da turma selecionada'
       fetch_schools_error: 'Ocorreu um erro ao buscar as escolas'
       fetch_access_level_error: 'Ocorreu um erro ao buscar o nível de acesso da permissão selecionada'

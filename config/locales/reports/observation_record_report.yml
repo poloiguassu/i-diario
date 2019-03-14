@@ -7,7 +7,7 @@ pt-BR:
       discipline: 'Disciplina'
       classroom: 'Turma'
       empty_discipline: 'Geral'
-      teacher: 'Professor'
+      teacher: 'Educador'
       period: 'Período'
       period_content: '%{start_at} a %{end_at}'
       general_information: 'Informações gerais'
@@ -16,7 +16,7 @@ pt-BR:
       observation: 'Observação'
       teacher_signature: |
         ______________________________________________
-        Professor(a)
+        Educador(a)
       coordinator_signature: |
         ______________________________________________
         Coordenador(a)/diretor(a)
